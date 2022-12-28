@@ -1,14 +1,10 @@
 {
   "name": "kudos-api",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
-  "engines": {
-    "node": "16.15.0",
-    "npm": "8.5.5"
-  },
   "scripts": {
     "prebuild": "rimraf dist",
     "build": "nest build",
