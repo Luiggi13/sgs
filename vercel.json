@@ -1,5 +1,11 @@
 {
   "version": 2,
+  "env": {
+    "DATABASE_USERNAME": "@DATABASE_USERNAME",
+    "DATABASE_PASSWORD": "@DATABASE_PASSWORD",
+    "DATABASE_HOST": "@DATABASE_HOST",
+    "PORT": "@PORT"
+},
   "builds": [
       {
           "src": "src/main.ts",
