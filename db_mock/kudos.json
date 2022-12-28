@@ -1,0 +1,21 @@
+[
+    {
+        "giver": "xifre@mail.schwarz",
+        "receiver": "paulyne@mail.schwarz",
+        "kudos": 1,
+        "message": "Amazing",
+        "media": "https://media2.giphy.com/media/D28t0Rto3daKI/giphy.gif?cid=ecf05e471djfdw8p6gzi2zstggpc2a38ek80kd5qcnjvvv9i&rid=giphy.gif&ct=g",
+        "superKudos": true,
+        "core_values": [
+            {
+                "name": "Front End Value",
+                "description": "Good comunnication and help to others",
+                "icon": "🎄"
+            }
+        ],
+        "createdAt": "2022-12-22T00:00:00.000Z",
+        "updatedAt": null,
+        "_id": "63a1d54aee68278c74dc450f",
+        "__v": 0
+    }
+]
